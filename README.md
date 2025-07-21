@@ -13,7 +13,7 @@ This repository includes our project code, documentation, and related assets.
 
 🎥 Video Link: [https://drive.google.com/drive/folders/14ZPRIkfOi14QtWcPNzk_S_JCa9WMjNx0?usp=sharing](https://drive.google.com/drive/folders/14ZPRIkfOi14QtWcPNzk_S_JCa9WMjNx0?usp=sharing)  
 
-🖥 Live App (if available): [https://the-honoured-ones.vercel.app/](https://the-honoured-ones.vercel.app/)  
+🖥 Live App : [https://the-honoured-ones.vercel.app/](https://the-honoured-ones.vercel.app/)  
 
 📊 Presentation: [https://www.canva.com/design/DAGsOPaFjGs/Wl-5-yC8Vr13GeZVf0pqAA/edit?utm_content=DAGsOPaFjGs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGsOPaFjGs/Wl-5-yC8Vr13GeZVf0pqAA/edit?utm_content=DAGsOPaFjGs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
