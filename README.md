@@ -5,6 +5,13 @@
 **🛠 Project Title** – **CLEN**  
 **👥 Team** – **The Honoured Ones**
 
+**Sachin Baluragi**   
+**Rahul Jadvani**   
+**Sai Jadhav**  
+**Prathiksha**   
+
+---
+
 *Welcome to our submission for the Agentic Ethereum Hackathon by Reskilll & Geodework!*  
 *This repository includes our project code, documentation, and related assets.*
 
@@ -174,3 +181,6 @@ CLEN leverages:
 
 ---
 
+
+
+### 🚀 “CLen is building the missing credit layer of Web3 — where your reputation, not your collateral, unlocks financial access”
